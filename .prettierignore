@@ -1,0 +1,5 @@
+**/node_modules
+src/jwt/keys
+src/pictures
+src/packageJsonComands.txt
+src/webpackNpmPackages.txt
